@@ -1,0 +1,15 @@
+{
+  "verticals": [
+    {
+      "name": "banking",
+      "backgroundImage": "/assets/zbank.jpg",
+      "menuColor": "white"
+    },
+    {
+      "name": "insurance",
+      "backgroundImage": "/assets/zinsure.jpg",
+      "menuColor": "black"
+    }
+  ],
+  "defaultVertical": "banking"
+}
