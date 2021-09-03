@@ -1,0 +1,13 @@
+{
+    "accounts": [
+        {
+            "name": "NA SC Account",
+            "number": "43193725"
+        },
+        {
+            "name": "EMEA SC Account",
+            "number": "1685908"
+        }
+    ],
+    "default": "43193725"
+}
